@@ -1,4 +1,19 @@
-### Hi there 👋
+### About me
+http://chihoko12.github.io/profile/ 
+
+
+### Team projects
+Payment web app for mobile
+https://cashless-386.herokuapp.com/
+
+Rental boat web app
+https://boat-bnb-386.herokuapp.com
+
+
+### My projects
+Cocktail recipe share app
+https://mr-cocktail-386.herokuapp.com/
+
 
 <!--
 **chihoko12/chihoko12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
